@@ -1,0 +1,1247 @@
+Apr 15 00:00:46 externo rsyslogd:  [origin software="rsyslogd" swVersion="8.1901.0" x-pid="406" x-info="https://www.rsyslog.com"] rsyslogd was HUPed
+Apr 15 00:00:47 externo systemd[1]: logrotate.service: Succeeded.
+Apr 15 00:00:47 externo systemd[1]: Started Rotate log files.
+Apr 15 00:00:54 externo systemd[1]: man-db.service: Succeeded.
+Apr 15 00:00:54 externo systemd[1]: Started Daily man-db regeneration.
+Apr 15 00:03:19 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:03:19 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 00:03:21 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 233 seconds.
+Apr 15 00:07:14 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:07:14 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 00:07:15 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 285 seconds.
+Apr 15 00:12:00 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:12:00 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 00:12:03 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 243 seconds.
+Apr 15 00:16:07 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:16:07 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 00:16:09 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 240 seconds.
+Apr 15 00:17:01 externo CRON[10611]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 00:20:09 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:20:09 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 00:20:12 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 295 seconds.
+Apr 15 00:25:06 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:25:06 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 00:25:08 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 244 seconds.
+Apr 15 00:29:12 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:29:12 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 00:29:14 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 228 seconds.
+Apr 15 00:33:02 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:33:02 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 00:33:04 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 250 seconds.
+Apr 15 00:37:14 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:37:14 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 00:37:16 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 257 seconds.
+Apr 15 00:41:33 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:41:33 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 00:41:35 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 271 seconds.
+Apr 15 00:46:07 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:46:07 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 00:46:09 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 253 seconds.
+Apr 15 00:50:22 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:50:22 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 00:50:24 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 296 seconds.
+Apr 15 00:53:25 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27488/-1 pkts=704/0
+Apr 15 00:53:25 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 00:53:25 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 00:53:25 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 00:53:25 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 00:53:25 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 00:53:25 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 00:55:20 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:55:20 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 00:55:22 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 277 seconds.
+Apr 15 00:59:59 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 00:59:59 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:00:01 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 259 seconds.
+Apr 15 01:04:20 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 01:04:20 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:04:22 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 292 seconds.
+Apr 15 01:09:14 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 01:09:14 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:09:16 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 290 seconds.
+Apr 15 01:14:06 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 01:14:06 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:14:08 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 274 seconds.
+Apr 15 01:15:56 externo systemd[1]: Starting Daily apt download activities...
+Apr 15 01:16:22 externo systemd[1]: apt-daily.service: Succeeded.
+Apr 15 01:16:22 externo systemd[1]: Started Daily apt download activities.
+Apr 15 01:17:02 externo CRON[10790]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 01:18:42 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 01:18:42 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:18:44 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 279 seconds.
+Apr 15 01:23:23 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 01:23:23 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:23:25 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 286 seconds.
+Apr 15 01:28:12 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 01:28:12 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:28:14 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 254 seconds.
+Apr 15 01:32:28 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 01:32:28 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:32:29 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 261 seconds.
+Apr 15 01:36:50 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 01:36:50 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:36:51 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 255 seconds.
+Apr 15 01:41:06 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 01:41:06 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:41:08 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 229 seconds.
+Apr 15 01:44:57 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 01:44:57 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:44:59 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 272 seconds.
+Apr 15 01:49:31 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 01:49:31 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:49:33 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 298 seconds.
+Apr 15 01:53:25 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27447/-1 pkts=703/0
+Apr 15 01:53:26 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 01:53:26 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 01:53:26 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 01:53:26 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 01:53:26 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 01:53:26 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 01:54:31 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 01:54:31 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:54:33 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 269 seconds.
+Apr 15 01:59:03 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 01:59:03 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 01:59:05 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 257 seconds.
+Apr 15 02:03:22 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 02:03:22 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 02:03:24 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 265 seconds.
+Apr 15 02:07:49 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 02:07:49 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 02:07:51 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 226 seconds.
+Apr 15 02:11:37 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 02:11:37 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 02:11:39 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 291 seconds.
+Apr 15 02:16:31 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 02:16:31 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 02:16:33 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 295 seconds.
+Apr 15 02:17:01 externo CRON[10925]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 02:21:28 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 02:21:28 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 02:21:30 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 232 seconds.
+Apr 15 02:25:22 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 02:25:22 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 02:25:24 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 227 seconds.
+Apr 15 02:29:12 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 02:29:12 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 02:29:14 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 250 seconds.
+Apr 15 02:33:24 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 02:33:24 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 02:33:26 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 271 seconds.
+Apr 15 02:37:57 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 02:37:57 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 02:38:00 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 255 seconds.
+Apr 15 02:42:15 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 02:42:15 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 02:42:17 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 289 seconds.
+Apr 15 02:47:06 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 02:47:06 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 02:47:08 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 260 seconds.
+Apr 15 02:51:28 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 02:51:28 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 02:51:30 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 270 seconds.
+Apr 15 02:53:25 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 02:53:26 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27410/-1 pkts=702/0
+Apr 15 02:53:26 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 02:53:26 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 02:53:26 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 02:53:27 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 02:53:27 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 02:53:27 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 02:56:00 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 02:56:00 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 02:56:01 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 239 seconds.
+Apr 15 03:00:00 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:00:00 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:00:01 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 287 seconds.
+Apr 15 03:04:48 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:04:48 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:04:50 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 277 seconds.
+Apr 15 03:09:27 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:09:27 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:09:29 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 296 seconds.
+Apr 15 03:14:25 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:14:25 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:14:27 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 281 seconds.
+Apr 15 03:17:02 externo CRON[11051]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 03:19:09 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:19:09 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:19:10 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 257 seconds.
+Apr 15 03:23:28 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:23:28 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:23:30 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 287 seconds.
+Apr 15 03:28:17 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:28:17 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:28:19 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 258 seconds.
+Apr 15 03:32:37 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:32:37 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:32:39 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 250 seconds.
+Apr 15 03:36:49 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:36:49 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:36:51 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 240 seconds.
+Apr 15 03:40:51 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:40:51 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:40:53 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 279 seconds.
+Apr 15 03:45:32 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:45:32 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:45:34 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 234 seconds.
+Apr 15 03:49:28 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:49:28 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:49:30 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 261 seconds.
+Apr 15 03:53:26 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 03:53:28 externo openvpn[31273]: TLS: soft reset sec=-1 bytes=27566/-1 pkts=706/0
+Apr 15 03:53:28 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 03:53:28 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 03:53:28 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 03:53:28 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 03:53:28 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 03:53:28 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 03:53:52 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:53:52 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:53:54 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 296 seconds.
+Apr 15 03:58:51 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 03:58:51 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 03:58:52 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 290 seconds.
+Apr 15 04:03:42 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 04:03:42 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 04:03:45 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 293 seconds.
+Apr 15 04:08:37 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 04:08:37 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 04:08:39 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 288 seconds.
+Apr 15 04:13:27 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 04:13:27 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 04:13:29 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 284 seconds.
+Apr 15 04:17:01 externo CRON[11177]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 04:18:13 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 04:18:13 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 04:18:15 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 273 seconds.
+Apr 15 04:22:48 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 04:22:48 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 04:22:50 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 239 seconds.
+Apr 15 04:26:50 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 04:26:50 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 04:26:52 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 293 seconds.
+Apr 15 04:31:46 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 04:31:46 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 04:31:48 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 292 seconds.
+Apr 15 04:36:40 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 04:36:40 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 04:36:42 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 288 seconds.
+Apr 15 04:41:30 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 04:41:30 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 04:41:32 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 283 seconds.
+Apr 15 04:46:15 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 04:46:15 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 04:46:17 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 297 seconds.
+Apr 15 04:51:15 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 04:51:15 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 04:51:17 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 262 seconds.
+Apr 15 04:53:28 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27451/-1 pkts=703/0
+Apr 15 04:53:29 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 04:53:29 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 04:53:29 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 04:53:29 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 04:53:29 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 04:53:29 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 04:55:38 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 04:55:38 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 04:55:40 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 275 seconds.
+Apr 15 05:00:16 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:00:16 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:00:18 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 293 seconds.
+Apr 15 05:05:10 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:05:10 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:05:12 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 284 seconds.
+Apr 15 05:09:56 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:09:56 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:09:58 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 252 seconds.
+Apr 15 05:14:10 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:14:10 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:14:12 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 289 seconds.
+Apr 15 05:17:02 externo CRON[11303]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 05:19:01 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:19:01 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:19:03 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 255 seconds.
+Apr 15 05:23:18 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:23:18 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:23:22 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 292 seconds.
+Apr 15 05:28:15 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:28:15 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:28:17 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 296 seconds.
+Apr 15 05:33:13 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:33:13 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:33:14 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 241 seconds.
+Apr 15 05:37:15 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:37:15 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:37:17 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 259 seconds.
+Apr 15 05:41:36 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:41:36 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:41:38 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 225 seconds.
+Apr 15 05:45:23 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:45:23 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:45:24 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 267 seconds.
+Apr 15 05:49:51 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:49:51 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:49:53 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 262 seconds.
+Apr 15 05:53:29 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 05:53:30 externo openvpn[31273]: TLS: soft reset sec=-1 bytes=27566/-1 pkts=706/0
+Apr 15 05:53:30 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 05:53:30 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 05:53:30 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 05:53:31 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 05:53:31 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 05:53:31 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 05:54:16 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:54:16 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:54:17 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 229 seconds.
+Apr 15 05:58:07 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 05:58:07 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 05:58:09 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 283 seconds.
+Apr 15 06:02:52 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 06:02:52 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 06:02:54 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 234 seconds.
+Apr 15 06:06:48 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 06:06:48 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 06:06:50 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 290 seconds.
+Apr 15 06:11:40 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 06:11:40 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 06:11:43 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 265 seconds.
+Apr 15 06:16:08 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 06:16:08 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 06:16:10 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 285 seconds.
+Apr 15 06:17:02 externo CRON[11438]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 06:20:55 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 06:20:55 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 06:20:58 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 273 seconds.
+Apr 15 06:25:01 externo CRON[11451]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Apr 15 06:25:31 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 06:25:31 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 06:25:33 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 254 seconds.
+Apr 15 06:29:44 externo systemd[1]: Starting Daily apt upgrade and clean activities...
+Apr 15 06:29:48 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 06:29:48 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 06:29:50 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 272 seconds.
+Apr 15 06:30:15 externo systemd[1]: apt-daily-upgrade.service: Succeeded.
+Apr 15 06:30:15 externo systemd[1]: Started Daily apt upgrade and clean activities.
+Apr 15 06:34:22 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 06:34:22 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 06:34:24 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 280 seconds.
+Apr 15 06:39:04 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 06:39:04 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 06:39:06 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 243 seconds.
+Apr 15 06:43:09 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 06:43:09 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 06:43:11 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 287 seconds.
+Apr 15 06:47:58 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 06:47:58 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 06:48:00 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 243 seconds.
+Apr 15 06:52:03 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 06:52:03 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 06:52:05 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 267 seconds.
+Apr 15 06:53:30 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 06:53:31 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27447/-1 pkts=703/0
+Apr 15 06:53:32 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 06:53:32 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 06:53:32 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 06:53:32 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 06:53:32 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 06:53:32 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 06:56:32 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 06:56:32 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 06:56:34 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 273 seconds.
+Apr 15 07:01:07 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:01:07 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:01:10 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 224 seconds.
+Apr 15 07:04:54 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:04:54 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:04:56 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 242 seconds.
+Apr 15 07:08:58 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:08:58 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:09:00 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 253 seconds.
+Apr 15 07:13:13 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:13:13 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:13:16 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 238 seconds.
+Apr 15 07:17:01 externo CRON[11620]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 07:17:14 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:17:14 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:17:16 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 231 seconds.
+Apr 15 07:21:08 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:21:08 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:21:10 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 251 seconds.
+Apr 15 07:25:22 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:25:22 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:25:24 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 260 seconds.
+Apr 15 07:29:43 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:29:43 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:29:45 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 260 seconds.
+Apr 15 07:30:01 externo CRON[11660]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 07:33:43 externo systemd[1]: Started Run anacron jobs.
+Apr 15 07:33:44 externo anacron[11662]: Anacron 2.3 started on 2021-04-15
+Apr 15 07:33:44 externo anacron[11662]: Will run job `cron.daily' in 5 min.
+Apr 15 07:33:44 externo anacron[11662]: Jobs will be executed sequentially
+Apr 15 07:34:06 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:34:06 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:34:07 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 255 seconds.
+Apr 15 07:38:22 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:38:22 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:38:24 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 227 seconds.
+Apr 15 07:38:43 externo anacron[11662]: Job `cron.daily' started
+Apr 15 07:38:44 externo anacron[11685]: Updated timestamp for job `cron.daily' to 2021-04-15
+Apr 15 07:38:56 externo anacron[11662]: Job `cron.daily' terminated
+Apr 15 07:38:56 externo anacron[11662]: Normal exit (1 job run)
+Apr 15 07:38:56 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 07:42:11 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:42:11 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:42:13 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 287 seconds.
+Apr 15 07:47:00 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:47:00 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:47:01 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 288 seconds.
+Apr 15 07:51:49 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:51:49 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:51:51 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 234 seconds.
+Apr 15 07:53:31 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 07:53:32 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27488/-1 pkts=704/0
+Apr 15 07:53:33 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 07:53:33 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 07:53:33 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 07:53:33 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 07:53:33 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 07:53:33 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 07:55:45 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 07:55:45 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 07:55:49 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 253 seconds.
+Apr 15 08:00:02 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:00:03 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:00:05 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 281 seconds.
+Apr 15 08:04:45 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:04:45 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:04:47 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 277 seconds.
+Apr 15 08:09:24 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:09:24 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:09:26 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 279 seconds.
+Apr 15 08:14:05 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:14:05 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:14:07 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 284 seconds.
+Apr 15 08:17:02 externo CRON[11828]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 08:18:51 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:18:51 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:18:53 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 294 seconds.
+Apr 15 08:23:47 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:23:47 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:23:50 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 286 seconds.
+Apr 15 08:28:36 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:28:36 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:28:38 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 235 seconds.
+Apr 15 08:30:01 externo CRON[11859]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 08:31:44 externo systemd[1]: Started Run anacron jobs.
+Apr 15 08:31:44 externo anacron[11861]: Anacron 2.3 started on 2021-04-15
+Apr 15 08:31:44 externo anacron[11861]: Normal exit (0 jobs run)
+Apr 15 08:31:44 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 08:32:33 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:32:33 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:32:35 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 277 seconds.
+Apr 15 08:37:12 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:37:12 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:37:14 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 242 seconds.
+Apr 15 08:41:16 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:41:16 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:41:18 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 234 seconds.
+Apr 15 08:45:12 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:45:12 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:45:14 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 225 seconds.
+Apr 15 08:48:59 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:48:59 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:49:01 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 291 seconds.
+Apr 15 08:53:33 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 08:53:34 externo openvpn[31273]: TLS: soft reset sec=-1 bytes=27410/-1 pkts=702/0
+Apr 15 08:53:34 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 08:53:34 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 08:53:34 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 08:53:35 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 08:53:35 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 08:53:35 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 08:53:52 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:53:52 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:53:55 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 284 seconds.
+Apr 15 08:58:39 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 08:58:39 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 08:58:41 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 294 seconds.
+Apr 15 09:03:36 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:03:36 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:03:37 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 236 seconds.
+Apr 15 09:07:33 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:07:33 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:07:35 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 236 seconds.
+Apr 15 09:11:31 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:11:31 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:11:33 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 225 seconds.
+Apr 15 09:15:18 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:15:18 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:15:21 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 226 seconds.
+Apr 15 09:17:02 externo CRON[12491]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 09:19:06 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:19:06 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:19:07 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 281 seconds.
+Apr 15 09:23:48 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:23:48 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:23:50 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 250 seconds.
+Apr 15 09:28:00 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:28:00 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:28:02 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 247 seconds.
+Apr 15 09:30:02 externo CRON[12564]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 09:32:09 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:32:09 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:32:11 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 231 seconds.
+Apr 15 09:32:56 externo systemd[1]: Started Run anacron jobs.
+Apr 15 09:32:56 externo anacron[12575]: Anacron 2.3 started on 2021-04-15
+Apr 15 09:32:56 externo anacron[12575]: Normal exit (0 jobs run)
+Apr 15 09:32:56 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 09:36:03 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:36:03 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:36:05 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 244 seconds.
+Apr 15 09:40:09 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:40:09 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:40:11 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 265 seconds.
+Apr 15 09:44:36 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:44:36 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:44:38 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 254 seconds.
+Apr 15 09:48:53 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:48:53 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:48:55 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 233 seconds.
+Apr 15 09:52:49 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:52:49 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:52:50 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 243 seconds.
+Apr 15 09:53:35 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 09:53:36 externo openvpn[31273]: TLS: soft reset sec=-1 bytes=27529/-1 pkts=705/0
+Apr 15 09:53:36 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 09:53:36 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 09:53:36 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 09:53:37 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 09:53:37 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 09:53:37 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 09:56:53 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 09:56:53 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 09:56:55 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 261 seconds.
+Apr 15 10:01:17 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 10:01:17 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 10:01:19 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 293 seconds.
+Apr 15 10:06:13 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 10:06:13 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 10:06:15 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 292 seconds.
+Apr 15 10:11:07 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 10:11:07 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 10:11:10 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 239 seconds.
+Apr 15 10:15:09 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 10:15:09 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 10:15:11 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 246 seconds.
+Apr 15 10:17:01 externo CRON[12672]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 10:19:17 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 10:19:17 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 10:19:19 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 275 seconds.
+Apr 15 10:23:54 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 10:23:54 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 10:23:56 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 259 seconds.
+Apr 15 10:28:15 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 10:28:15 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 10:28:18 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 296 seconds.
+Apr 15 10:30:02 externo CRON[12703]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 10:33:14 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 10:33:14 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 10:33:17 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 261 seconds.
+Apr 15 10:34:43 externo systemd[1]: Started Run anacron jobs.
+Apr 15 10:34:44 externo anacron[12714]: Anacron 2.3 started on 2021-04-15
+Apr 15 10:34:44 externo anacron[12714]: Normal exit (0 jobs run)
+Apr 15 10:34:44 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 10:37:38 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 10:37:38 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 10:37:40 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 293 seconds.
+Apr 15 10:42:33 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 10:42:33 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 10:42:35 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 269 seconds.
+Apr 15 10:47:04 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 10:47:04 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 10:47:06 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 266 seconds.
+Apr 15 10:51:32 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 10:51:32 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 10:51:34 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 233 seconds.
+Apr 15 10:53:36 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 10:53:37 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27447/-1 pkts=703/0
+Apr 15 10:53:38 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 10:53:38 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 10:53:38 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 10:53:39 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 10:53:39 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 10:53:39 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 10:55:27 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 10:55:27 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 10:55:31 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 271 seconds.
+Apr 15 11:00:01 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:00:01 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:00:04 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 235 seconds.
+Apr 15 11:03:59 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:03:59 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:04:02 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 232 seconds.
+Apr 15 11:07:53 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:07:53 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:07:55 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 288 seconds.
+Apr 15 11:12:43 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:12:43 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:12:45 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 232 seconds.
+Apr 15 11:16:37 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:16:37 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:16:39 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 295 seconds.
+Apr 15 11:17:02 externo CRON[12811]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 11:21:34 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:21:34 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:21:36 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 232 seconds.
+Apr 15 11:25:28 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:25:28 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:25:30 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 275 seconds.
+Apr 15 11:30:02 externo CRON[12833]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 11:30:05 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:30:05 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:30:08 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 295 seconds.
+Apr 15 11:31:44 externo systemd[1]: Started Run anacron jobs.
+Apr 15 11:31:44 externo anacron[12844]: Anacron 2.3 started on 2021-04-15
+Apr 15 11:31:44 externo anacron[12844]: Normal exit (0 jobs run)
+Apr 15 11:31:44 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 11:35:03 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:35:03 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:35:05 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 267 seconds.
+Apr 15 11:39:32 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:39:32 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:39:34 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 255 seconds.
+Apr 15 11:43:49 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:43:49 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:43:51 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 271 seconds.
+Apr 15 11:48:22 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:48:22 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:48:24 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 288 seconds.
+Apr 15 11:53:12 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:53:12 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:53:15 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 296 seconds.
+Apr 15 11:53:37 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 11:53:39 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27410/-1 pkts=702/0
+Apr 15 11:53:40 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 11:53:40 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 11:53:40 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 11:53:40 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 11:53:40 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 11:53:40 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 11:58:11 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 11:58:11 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 11:58:12 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 281 seconds.
+Apr 15 12:02:53 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 12:02:53 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 12:02:57 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 266 seconds.
+Apr 15 12:07:23 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 12:07:23 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 12:07:25 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 263 seconds.
+Apr 15 12:11:48 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 12:11:48 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 12:11:51 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 258 seconds.
+Apr 15 12:16:09 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 12:16:09 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 12:16:11 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 273 seconds.
+Apr 15 12:17:02 externo CRON[13490]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 12:20:45 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 12:20:45 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 12:20:47 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 293 seconds.
+Apr 15 12:25:40 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 12:25:40 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 12:25:43 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 291 seconds.
+Apr 15 12:30:01 externo CRON[13565]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 12:30:34 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 12:30:34 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 12:30:37 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 294 seconds.
+Apr 15 12:32:44 externo systemd[1]: Started Run anacron jobs.
+Apr 15 12:32:44 externo anacron[13576]: Anacron 2.3 started on 2021-04-15
+Apr 15 12:32:44 externo anacron[13576]: Normal exit (0 jobs run)
+Apr 15 12:32:44 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 12:35:31 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 12:35:31 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 12:35:33 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 266 seconds.
+Apr 15 12:39:59 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 12:39:59 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 12:40:03 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 236 seconds.
+Apr 15 12:43:59 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 12:43:59 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 12:44:01 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 292 seconds.
+Apr 15 12:48:53 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 12:48:53 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 12:48:57 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 246 seconds.
+Apr 15 12:53:03 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 12:53:03 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 12:53:05 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 235 seconds.
+Apr 15 12:53:39 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 12:53:40 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27410/-1 pkts=702/0
+Apr 15 12:53:41 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 12:53:41 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 12:53:41 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 12:53:42 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 12:53:42 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 12:53:42 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 12:57:00 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 12:57:00 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 12:57:02 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 261 seconds.
+Apr 15 13:01:23 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:01:23 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:01:25 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 245 seconds.
+Apr 15 13:05:30 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:05:30 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:05:32 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 262 seconds.
+Apr 15 13:09:54 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:09:54 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:09:57 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 227 seconds.
+Apr 15 13:13:44 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:13:44 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:13:46 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 269 seconds.
+Apr 15 13:17:01 externo CRON[13675]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 13:18:15 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:18:15 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:18:16 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 298 seconds.
+Apr 15 13:23:14 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:23:14 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:23:16 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 296 seconds.
+Apr 15 13:28:12 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:28:12 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:28:14 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 292 seconds.
+Apr 15 13:30:02 externo CRON[13809]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 13:30:08 externo systemd[1]: Started Run anacron jobs.
+Apr 15 13:30:08 externo anacron[13810]: Anacron 2.3 started on 2021-04-15
+Apr 15 13:30:08 externo anacron[13810]: Normal exit (0 jobs run)
+Apr 15 13:30:08 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 13:33:07 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:33:07 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:33:09 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 248 seconds.
+Apr 15 13:37:17 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:37:17 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:37:19 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 225 seconds.
+Apr 15 13:41:04 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:41:04 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:41:06 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 274 seconds.
+Apr 15 13:45:41 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:45:41 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:45:42 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 262 seconds.
+Apr 15 13:50:05 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:50:05 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:50:09 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 229 seconds.
+Apr 15 13:53:40 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 13:53:41 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27488/-1 pkts=704/0
+Apr 15 13:53:42 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 13:53:42 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 13:53:42 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 13:53:43 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 13:53:43 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 13:53:43 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 13:53:58 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:53:58 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:54:00 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 257 seconds.
+Apr 15 13:58:17 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 13:58:17 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 13:58:19 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 284 seconds.
+Apr 15 14:03:03 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 14:03:03 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 14:03:06 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 285 seconds.
+Apr 15 14:07:51 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 14:07:51 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 14:07:53 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 233 seconds.
+Apr 15 14:11:46 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 14:11:46 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 14:11:48 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 249 seconds.
+Apr 15 14:15:57 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 14:15:57 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 14:15:59 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 290 seconds.
+Apr 15 14:17:01 externo CRON[14648]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 14:20:49 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 14:20:49 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 14:20:52 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 244 seconds.
+Apr 15 14:24:56 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 14:24:56 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 14:24:59 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 278 seconds.
+Apr 15 14:29:37 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 14:29:37 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 14:29:39 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 290 seconds.
+Apr 15 14:30:01 externo CRON[15060]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 14:31:23 externo systemd[1]: Started Run anacron jobs.
+Apr 15 14:31:24 externo anacron[15108]: Anacron 2.3 started on 2021-04-15
+Apr 15 14:31:24 externo anacron[15108]: Normal exit (0 jobs run)
+Apr 15 14:31:24 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 14:34:29 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 14:34:29 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 14:34:32 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 233 seconds.
+Apr 15 14:38:25 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 14:38:25 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 14:38:27 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 285 seconds.
+Apr 15 14:43:13 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 14:43:13 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 14:43:15 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 232 seconds.
+Apr 15 14:47:07 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 14:47:07 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 14:47:09 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 287 seconds.
+Apr 15 14:51:56 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 14:51:56 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 14:51:59 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 250 seconds.
+Apr 15 14:53:42 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 14:53:43 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27451/-1 pkts=703/0
+Apr 15 14:53:43 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 14:53:43 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 14:53:43 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 14:53:44 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 14:53:44 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 14:53:44 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 14:56:09 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 14:56:09 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 14:56:11 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 278 seconds.
+Apr 15 15:00:49 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:00:49 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:00:51 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 268 seconds.
+Apr 15 15:05:19 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:05:19 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:05:21 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 235 seconds.
+Apr 15 15:09:16 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:09:16 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:09:18 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 235 seconds.
+Apr 15 15:13:13 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:13:13 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:13:15 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 292 seconds.
+Apr 15 15:17:01 externo CRON[15751]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 15:18:07 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:18:07 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:18:10 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 255 seconds.
+Apr 15 15:22:25 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:22:25 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:22:27 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 229 seconds.
+Apr 15 15:26:16 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:26:16 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:26:19 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 257 seconds.
+Apr 15 15:30:01 externo CRON[15885]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 15:30:36 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:30:37 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:30:39 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 268 seconds.
+Apr 15 15:31:18 externo systemd[1]: Started Run anacron jobs.
+Apr 15 15:31:18 externo anacron[15908]: Anacron 2.3 started on 2021-04-15
+Apr 15 15:31:18 externo anacron[15908]: Normal exit (0 jobs run)
+Apr 15 15:31:18 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 15:35:08 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:35:08 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:35:08 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 282 seconds.
+Apr 15 15:39:50 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:39:50 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:39:52 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 273 seconds.
+Apr 15 15:44:25 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:44:25 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:44:27 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 228 seconds.
+Apr 15 15:48:15 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:48:15 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:48:16 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 297 seconds.
+Apr 15 15:53:13 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:53:13 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:53:14 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 300 seconds.
+Apr 15 15:53:44 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 15:53:45 externo openvpn[31273]: TLS: soft reset sec=-1 bytes=27525/-1 pkts=705/0
+Apr 15 15:53:45 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 15:53:45 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 15:53:45 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 15:53:46 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 15:53:46 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 15:53:46 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 15:58:14 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 15:58:14 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 15:58:16 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 266 seconds.
+Apr 15 16:02:42 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 16:02:42 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 16:02:44 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 289 seconds.
+Apr 15 16:07:33 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 16:07:33 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 16:07:35 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 239 seconds.
+Apr 15 16:11:34 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 16:11:34 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 16:11:36 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 255 seconds.
+Apr 15 16:15:51 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 16:15:51 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 16:15:53 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 287 seconds.
+Apr 15 16:17:01 externo CRON[16034]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 16:20:41 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 16:20:41 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 16:20:42 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 234 seconds.
+Apr 15 16:24:36 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 16:24:36 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 16:24:38 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 299 seconds.
+Apr 15 16:29:38 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 16:29:38 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 16:29:40 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 224 seconds.
+Apr 15 16:30:01 externo CRON[16065]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 16:33:24 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 16:33:24 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 16:33:25 externo systemd[1]: Started Run anacron jobs.
+Apr 15 16:33:25 externo anacron[16069]: Anacron 2.3 started on 2021-04-15
+Apr 15 16:33:25 externo anacron[16069]: Normal exit (0 jobs run)
+Apr 15 16:33:25 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 16:33:26 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 258 seconds.
+Apr 15 16:37:44 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 16:37:44 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 16:37:46 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 265 seconds.
+Apr 15 16:42:11 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 16:42:11 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 16:42:13 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 281 seconds.
+Apr 15 16:46:54 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 16:46:54 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 16:46:56 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 260 seconds.
+Apr 15 16:51:16 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 16:51:16 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 16:51:19 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 282 seconds.
+Apr 15 16:53:45 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 16:53:46 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27566/-1 pkts=706/0
+Apr 15 16:53:46 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 16:53:46 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 16:53:46 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 16:53:47 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 16:53:47 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 16:53:47 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 16:56:00 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 16:56:00 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 16:56:02 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 271 seconds.
+Apr 15 17:00:33 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:00:33 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:00:35 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 261 seconds.
+Apr 15 17:04:56 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:04:56 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:04:59 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 244 seconds.
+Apr 15 17:09:02 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:09:02 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:09:05 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 235 seconds.
+Apr 15 17:13:00 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:13:00 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:13:02 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 271 seconds.
+Apr 15 17:17:01 externo CRON[16767]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 17:17:33 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:17:33 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:17:36 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 224 seconds.
+Apr 15 17:21:20 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:21:20 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:21:23 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 279 seconds.
+Apr 15 17:26:02 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:26:02 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:26:03 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 288 seconds.
+Apr 15 17:26:56 externo systemd[1]: Starting Daily apt download activities...
+Apr 15 17:27:26 externo systemd[1]: apt-daily.service: Succeeded.
+Apr 15 17:27:26 externo systemd[1]: Started Daily apt download activities.
+Apr 15 17:30:02 externo CRON[16851]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 17:30:51 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:30:51 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:30:53 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 225 seconds.
+Apr 15 17:31:43 externo systemd[1]: Started Run anacron jobs.
+Apr 15 17:31:44 externo anacron[16862]: Anacron 2.3 started on 2021-04-15
+Apr 15 17:31:44 externo anacron[16862]: Normal exit (0 jobs run)
+Apr 15 17:31:44 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 17:34:38 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:34:38 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:34:40 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 251 seconds.
+Apr 15 17:38:51 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:38:51 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:38:54 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 295 seconds.
+Apr 15 17:43:49 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:43:49 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:43:51 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 260 seconds.
+Apr 15 17:48:11 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:48:11 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:48:13 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 299 seconds.
+Apr 15 17:53:11 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:53:11 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:53:13 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 235 seconds.
+Apr 15 17:53:46 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 17:53:48 externo openvpn[31273]: TLS: soft reset sec=-1 bytes=27332/-1 pkts=700/0
+Apr 15 17:53:48 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 17:53:48 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 17:53:48 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 17:53:49 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 17:53:49 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 17:53:49 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 17:57:08 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 17:57:08 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 17:57:10 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 285 seconds.
+Apr 15 18:01:55 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:01:55 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:01:57 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 265 seconds.
+Apr 15 18:06:22 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:06:22 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:06:25 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 280 seconds.
+Apr 15 18:11:04 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:11:04 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:11:06 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 261 seconds.
+Apr 15 18:15:27 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:15:27 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:15:29 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 280 seconds.
+Apr 15 18:17:02 externo CRON[17262]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 18:20:09 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:20:09 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:20:11 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 256 seconds.
+Apr 15 18:24:27 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:24:27 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:24:29 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 229 seconds.
+Apr 15 18:28:18 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:28:18 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:28:20 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 286 seconds.
+Apr 15 18:30:01 externo CRON[17509]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 18:30:59 externo systemd[1]: Started Run anacron jobs.
+Apr 15 18:30:59 externo anacron[17529]: Anacron 2.3 started on 2021-04-15
+Apr 15 18:30:59 externo anacron[17529]: Normal exit (0 jobs run)
+Apr 15 18:30:59 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 18:33:06 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:33:06 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:33:08 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 252 seconds.
+Apr 15 18:37:20 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:37:21 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:37:23 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 289 seconds.
+Apr 15 18:42:12 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:42:12 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:42:14 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 237 seconds.
+Apr 15 18:46:11 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:46:11 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:46:13 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 288 seconds.
+Apr 15 18:51:01 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:51:01 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:51:02 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 249 seconds.
+Apr 15 18:53:48 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 18:53:49 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27447/-1 pkts=703/0
+Apr 15 18:53:50 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 18:53:50 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 18:53:50 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 18:53:51 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 18:53:51 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 18:53:51 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 18:55:12 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:55:12 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:55:14 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 274 seconds.
+Apr 15 18:59:49 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 18:59:49 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 18:59:51 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 293 seconds.
+Apr 15 19:04:44 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 19:04:44 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 19:04:46 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 271 seconds.
+Apr 15 19:09:17 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 19:09:17 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 19:09:19 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 246 seconds.
+Apr 15 19:13:25 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 19:13:25 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 19:13:27 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 258 seconds.
+Apr 15 19:17:01 externo CRON[17692]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 19:17:45 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 19:17:45 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 19:17:47 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 236 seconds.
+Apr 15 19:21:43 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 19:21:43 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 19:21:45 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 255 seconds.
+Apr 15 19:26:01 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 19:26:01 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 19:26:03 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 238 seconds.
+Apr 15 19:30:01 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 19:30:01 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 19:30:02 externo CRON[17725]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 19:30:03 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 263 seconds.
+Apr 15 19:31:44 externo systemd[1]: Started Run anacron jobs.
+Apr 15 19:31:44 externo anacron[17734]: Anacron 2.3 started on 2021-04-15
+Apr 15 19:31:44 externo anacron[17734]: Normal exit (0 jobs run)
+Apr 15 19:31:44 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 19:34:26 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 19:34:26 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 19:34:28 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 228 seconds.
+Apr 15 19:38:16 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 19:38:16 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 19:38:18 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 261 seconds.
+Apr 15 19:42:39 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 19:42:39 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 19:42:41 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 268 seconds.
+Apr 15 19:47:09 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 19:47:09 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 19:47:11 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 253 seconds.
+Apr 15 19:51:24 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 19:51:24 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 19:51:26 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 278 seconds.
+Apr 15 19:53:49 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 19:53:51 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27410/-1 pkts=702/0
+Apr 15 19:53:51 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 19:53:51 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 19:53:51 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 19:53:52 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 19:53:52 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 19:53:52 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 19:56:04 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 19:56:04 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 19:56:07 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 285 seconds.
+Apr 15 20:00:51 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:00:51 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:00:53 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 253 seconds.
+Apr 15 20:05:06 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:05:06 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:05:08 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 276 seconds.
+Apr 15 20:09:44 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:09:44 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:09:46 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 240 seconds.
+Apr 15 20:13:46 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:13:46 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:13:48 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 257 seconds.
+Apr 15 20:17:01 externo CRON[17832]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 20:18:05 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:18:05 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:18:07 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 243 seconds.
+Apr 15 20:22:11 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:22:11 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:22:12 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 235 seconds.
+Apr 15 20:26:08 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:26:08 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:26:10 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 233 seconds.
+Apr 15 20:30:01 externo CRON[17863]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 20:30:03 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:30:03 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:30:05 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 263 seconds.
+Apr 15 20:31:43 externo systemd[1]: Started Run anacron jobs.
+Apr 15 20:31:44 externo anacron[17874]: Anacron 2.3 started on 2021-04-15
+Apr 15 20:31:44 externo anacron[17874]: Normal exit (0 jobs run)
+Apr 15 20:31:44 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 20:34:28 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:34:28 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:34:30 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 244 seconds.
+Apr 15 20:38:35 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:38:35 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:38:37 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 271 seconds.
+Apr 15 20:43:08 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:43:08 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:43:10 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 289 seconds.
+Apr 15 20:47:59 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:47:59 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:48:02 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 281 seconds.
+Apr 15 20:52:43 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:52:43 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:52:45 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 266 seconds.
+Apr 15 20:53:51 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 20:53:52 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27451/-1 pkts=703/0
+Apr 15 20:53:52 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 20:53:52 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 20:53:52 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 20:53:53 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 20:53:53 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 20:53:53 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 20:57:11 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 20:57:11 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 20:57:13 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 239 seconds.
+Apr 15 21:01:12 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:01:12 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:01:14 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 250 seconds.
+Apr 15 21:05:24 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:05:24 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:05:27 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 245 seconds.
+Apr 15 21:09:32 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:09:32 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:09:34 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 238 seconds.
+Apr 15 21:13:32 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:13:32 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:13:34 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 233 seconds.
+Apr 15 21:17:01 externo CRON[17972]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 21:17:27 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:17:27 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:17:29 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 290 seconds.
+Apr 15 21:22:19 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:22:19 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:22:21 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 234 seconds.
+Apr 15 21:26:15 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:26:15 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:26:17 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 291 seconds.
+Apr 15 21:30:01 externo CRON[18003]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 21:31:08 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:31:08 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:31:10 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 282 seconds.
+Apr 15 21:33:56 externo systemd[1]: Started Run anacron jobs.
+Apr 15 21:33:56 externo anacron[18014]: Anacron 2.3 started on 2021-04-15
+Apr 15 21:33:56 externo anacron[18014]: Normal exit (0 jobs run)
+Apr 15 21:33:57 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 21:35:52 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:35:52 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:35:54 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 288 seconds.
+Apr 15 21:40:43 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:40:43 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:40:45 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 291 seconds.
+Apr 15 21:45:36 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:45:36 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:45:38 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 295 seconds.
+Apr 15 21:50:33 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:50:33 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:50:35 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 268 seconds.
+Apr 15 21:53:52 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 21:53:53 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27447/-1 pkts=703/0
+Apr 15 21:53:53 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 21:53:53 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 21:53:53 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 21:53:54 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 21:53:54 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 21:53:54 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 21:55:04 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:55:04 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:55:06 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 235 seconds.
+Apr 15 21:59:01 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 21:59:01 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 21:59:01 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 288 seconds.
+Apr 15 22:03:49 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 22:03:49 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 22:03:51 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 279 seconds.
+Apr 15 22:08:31 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 22:08:31 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 22:08:31 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 251 seconds.
+Apr 15 22:12:42 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 22:12:42 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 22:12:44 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 294 seconds.
+Apr 15 22:17:01 externo CRON[18103]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Apr 15 22:17:38 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 22:17:38 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 22:17:40 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 236 seconds.
+Apr 15 22:21:36 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 22:21:36 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 22:21:40 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 250 seconds.
+Apr 15 22:25:50 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 22:25:50 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 22:25:52 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 256 seconds.
+Apr 15 22:30:02 externo CRON[18134]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Apr 15 22:30:08 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 22:30:08 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 22:30:10 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 231 seconds.
+Apr 15 22:32:44 externo systemd[1]: Started Run anacron jobs.
+Apr 15 22:32:44 externo anacron[18145]: Anacron 2.3 started on 2021-04-15
+Apr 15 22:32:44 externo anacron[18145]: Normal exit (0 jobs run)
+Apr 15 22:32:44 externo systemd[1]: anacron.service: Succeeded.
+Apr 15 22:34:01 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 22:34:01 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 22:34:03 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 245 seconds.
+Apr 15 22:38:08 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 22:38:08 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 22:38:10 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 267 seconds.
+Apr 15 22:42:36 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 22:42:36 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 22:42:39 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 252 seconds.
+Apr 15 22:46:51 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 22:46:51 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 22:46:53 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 290 seconds.
+Apr 15 22:51:43 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 22:51:43 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 22:51:45 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 233 seconds.
+Apr 15 22:53:53 externo openvpn[31273]: TLS: tls_process: killed expiring key
+Apr 15 22:53:54 externo openvpn[31273]: TLS: soft reset sec=0 bytes=27529/-1 pkts=705/0
+Apr 15 22:53:55 externo openvpn[31273]: VERIFY OK: depth=1, CN=gateway.asf.com
+Apr 15 22:53:55 externo openvpn[31273]: VERIFY OK: nsCertType=SERVER
+Apr 15 22:53:55 externo openvpn[31273]: VERIFY OK: depth=0, CN=vpn-server
+Apr 15 22:53:56 externo openvpn[31273]: Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 22:53:56 externo openvpn[31273]: Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key
+Apr 15 22:53:56 externo openvpn[31273]: Control Channel: TLSv1.2, cipher TLSv1.2 DHE-RSA-AES256-SHA256, 2048 bit RSA
+Apr 15 22:55:39 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 22:55:39 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 22:55:40 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 292 seconds.
+Apr 15 23:00:32 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 23:00:32 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 23:00:35 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 292 seconds.
+Apr 15 23:05:28 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 23:05:28 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 23:05:29 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 277 seconds.
+Apr 15 23:08:57 externo systemd[1]: Started Session 387 of user noc-lucas.
+Apr 15 23:10:07 externo dhclient[451]: DHCPREQUEST for 192.168.200.104 on ens18 to 192.168.200.1 port 67
+Apr 15 23:10:07 externo dhclient[451]: DHCPACK of 192.168.200.104 from 192.168.200.1
+Apr 15 23:10:09 externo dhclient[451]: bound to 192.168.200.104 -- renewal in 259 seconds.
