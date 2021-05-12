@@ -1,0 +1,47 @@
+---
+# tasks file for db
+    - name: 'Instalação dos pacotes para Banco de Dados'
+      apt:
+        pkg:
+          - mysql-server
+          - wget
+          - unzip
+          - curl
+          - vim
+          - python-mysqldb
+        state: present
+        update_cache: yes
+    - name:
+      unarchive:
+        src: https://github.com/rogerramossilva/devops/raw/master/db.zip
+        dest: /tmp
+        remote_src: yes
+    - name: "Criação do Banco de Dados Backup"
+      mysql_db:
+        name: backup
+        login_user: root
+        login_password: ""
+        state: present
+    - name: "Importação Banco de Dados backup.sql"
+      mysql_db:
+        login_user: root
+        login_password: ""
+        name: backup
+        target: /tmp/backup.sql
+        state: import
+    - name: "Criando o usuario Express para o DB Backup"
+      mysql_user:
+        login_user: root      
+        login_password: ""
+        host: '%'
+        name: express
+        password: 'AllSafe0!'
+        priv: 'backup.*:ALL'
+        state: present
+    - name: "Substituindo o 127.0.0.1 para 0.0.0.0"
+      replace:
+        path: /etc/mysql/mariadb.conf.d/50-server.cnf
+        regexp: '127\.0\.0\.1'
+        replace: '0.0.0.0'
+      notify: restart mysql
+
